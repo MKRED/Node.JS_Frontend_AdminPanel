@@ -1,0 +1,20 @@
+.container {
+  width: 250px;
+  height: 600px;
+  border: 1px solid;
+  margin: 5px;
+  overflow-y: scroll;
+  position: relative;
+}
+.title {
+  color: white;
+  background-color: #3c4b64;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+}
+.btn {
+  position: absolute;
+  bottom: 20px;
+  left: 81px;
+}

@@ -1,0 +1,102 @@
+.content {
+  width: 90%;
+  border: 1px solid lightgray;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 40px 20px;
+}
+.container {
+  width: 45%;
+  margin: auto;
+  padding: 50px 20px;
+}
+.desc {
+  width: 170px;
+  padding: 0;
+  margin: 0 15px;
+}
+.table {
+  width: 100%;
+  margin-top: 15px;
+}
+.table th {
+  padding: 5px 10px;
+  background-color: #2f3c4f;
+  color: white;
+  text-align: center;
+}
+.table td {
+  text-align: center;
+  padding: 10px;
+}
+.table tbody tr {
+  border-bottom: 1px solid;
+}
+.activeLink {
+  color: #3c4b64 !important;
+  font-size: 22px !important;
+}
+.link {
+  color: #2f3c4f !important;
+  font-size: 22px !important;
+}
+.histDesc {
+  width: 70px;
+  background-color: #2f3c4f;
+  padding: 5px;
+  color: white;
+  text-align: center;
+  margin: 0;
+}
+.checks {
+  border: 1px solid;
+  padding: 4px;
+}
+.excel {
+  width: 100%;
+  text-align: end;
+}
+.detailDesc {
+  width: 240px;
+  margin: auto;
+  border: 1px solid;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+}
+.key {
+  width: 200px;
+  padding: 5px 10px;
+  color: white;
+  background-color: #3c4b64;
+  text-align: center;
+}
+.value {
+  width: 200px;
+  padding: 5px 10px;
+  text-align: center;
+}
+.creditInfoTable {
+  width: 530px;
+  margin: 20px auto;
+  font-size: 21px;
+}
+.creditInfoTable tr {
+  border-bottom: 1px solid;
+}
+.descDir {
+  border: 1px solid;
+  padding: 6px 15px;
+  text-align: center;
+  margin-right: 10px;
+}
+.inp {
+  padding: 5px;
+  margin-right: 20px;
+}
+.title {
+  background-color: #2f3c4f;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}

@@ -1,0 +1,66 @@
+.excel {
+  width: 100%;
+  text-align: end;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 35px;
+}
+.desc {
+  background-color: #2f3c4f;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+.content {
+  width: 97%;
+  border: 1px solid;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 40px 20px;
+}
+.container {
+  width: 50%;
+  margin: auto;
+  border: 1px solid;
+}
+.links {
+  display: flex;
+  border-bottom: 1px solid;
+}
+.price {
+  width: 170px;
+  padding: 0;
+  margin: 0 15px;
+  text-align: center;
+}
+.arrow {
+  text-align: center;
+  font-size: 40px;
+  margin: 10px;
+}
+.head {
+  display: flex;
+  border-bottom: 1px solid;
+  padding: 7px;
+}
+.inp {
+  width: 100px;
+}
+.table {
+  width: 100%;
+  margin-top: 15px;
+}
+.table th {
+  padding: 5px 10px;
+  background-color: #2f3c4f;
+  color: white;
+  text-align: center;
+}
+.table td {
+  text-align: center;
+  padding: 10px;
+}
+.table tbody tr {
+  border-bottom: 1px solid;
+}

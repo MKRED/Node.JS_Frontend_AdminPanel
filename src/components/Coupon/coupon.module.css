@@ -1,0 +1,51 @@
+.tableList {
+  width: 1180px;
+  margin-top: 20px;
+}
+.tableList th {
+  padding: 4px;
+  text-align: center;
+  border: 1px solid;
+}
+.body td {
+  padding: 4px;
+  text-align: center;
+  border: 1px solid;
+}
+.info {
+  width: 150px;
+  text-align: end;
+  margin-right: 15px;
+}
+.desc {
+  background-color: #2f3c4f;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+.checks {
+  border: 1px solid;
+  padding: 5px;
+  margin-left: 5px;
+}
+.table {
+  width: 1060px;
+  margin-top: 15px;
+}
+.table th {
+  padding: 5px;
+  background-color: #2f3c4f;
+  color: white;
+  text-align: center;
+}
+.table td {
+  text-align: center;
+  padding: 6px;
+}
+.table tbody tr {
+  border-bottom: 1px solid;
+}
+.inp {
+  width: 500px;
+  padding: 3px;
+}

@@ -1,0 +1,21 @@
+.table {
+  width: 100%;
+}
+.table th {
+  padding: 7px;
+}
+.table tr {
+  text-align: center;
+}
+.img {
+  width: 120px;
+  height: 90px;
+  margin-top: 10px;
+}
+.changeImg {
+  width: 400px;
+  height: 300px;
+}
+.shortInp {
+  width: 100px;
+}

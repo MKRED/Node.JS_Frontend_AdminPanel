@@ -1,0 +1,10 @@
+.scroll {
+  overflow-x: auto;
+  height: 515px;
+  margin-top: 10px;
+}
+.table {
+  height: 500px;
+  border: 1px solid lightgray;
+  width: 100%;
+}

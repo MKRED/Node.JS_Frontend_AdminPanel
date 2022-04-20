@@ -1,0 +1,74 @@
+.content {
+  padding: 20px;
+}
+.desc {
+  background-color: #2f3c4f;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+.checks {
+  border: 1px solid;
+  padding: 5px;
+  margin-left: 5px;
+}
+.total {
+  font-size: 22px;
+  font-weight: bold;
+}
+.total b {
+  font-size: 24px;
+}
+.memberTable {
+  width: 100%;
+  margin-top: 15px;
+}
+.memberTable th {
+  padding: 5px 10px;
+  background-color: #2f3c4f;
+  color: white;
+  text-align: center;
+}
+.memberTable td {
+  text-align: center;
+  padding: 10px;
+}
+.memberTable tbody tr {
+  border-bottom: 1px solid;
+}
+.memberDesc {
+  width: 195px;
+  border: 1px solid;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+}
+.memberInfoTable {
+  width: 530px;
+  margin-right: 50px;
+  font-size: 21px;
+}
+.memberInfoTable tr {
+  border-bottom: 1px solid;
+}
+.key {
+  width: 200px;
+  padding: 5px 10px;
+  color: white;
+  background-color: #3c4b64;
+  text-align: center;
+}
+.value {
+  width: 200px;
+  padding: 5px 10px;
+  text-align: center;
+}
+.profilePhoto {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.container {
+  width: 85%;
+  padding: 25px;
+}

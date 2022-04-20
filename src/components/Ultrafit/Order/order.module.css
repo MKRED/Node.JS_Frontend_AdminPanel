@@ -1,0 +1,40 @@
+.table {
+  width: 98%;
+}
+.table th {
+  padding: 8px;
+  text-align: center;
+}
+.table td {
+  text-align: center;
+  margin: 5px;
+}
+.detail {
+  width: 600px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+  background-color: white;
+  font-size: 14px;
+}
+.print {
+  width: 25px;
+  height: 25px;
+}
+.detailTable {
+  width: 270px;
+  margin-right: 40px;
+}
+.detailTable tr {
+  border-bottom: 1px solid;
+}
+.detailTable td {
+  padding: 3px;
+}
+.detailImg {
+  width: 80px;
+  height: 50px;
+  margin-right: 10px;
+}

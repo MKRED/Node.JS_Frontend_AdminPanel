@@ -1,0 +1,46 @@
+.desc {
+  background-color: #2f3c4f;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+.checks {
+  border: 1px solid;
+  padding: 5px;
+  margin-left: 5px;
+}
+.excel {
+  width: 100%;
+  text-align: end;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.table {
+  width: 100%;
+  margin-top: 15px;
+}
+.table th {
+  padding: 5px 10px;
+  background-color: #2f3c4f;
+  color: white;
+  text-align: center;
+}
+.table td {
+  text-align: center;
+  padding: 10px;
+}
+.table tbody tr {
+  border-bottom: 1px solid;
+}
+.total {
+  font-size: 22px;
+  font-weight: bold;
+}
+.total b {
+  font-size: 24px;
+}
+.text {
+  width: 1150px;
+  margin: 50px 30px;
+}

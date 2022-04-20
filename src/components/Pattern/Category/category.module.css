@@ -1,0 +1,25 @@
+.content {
+  width: 1200px;
+  display: flex;
+}
+.container {
+  width: 250px;
+  height: 600px;
+  border: 1px solid;
+  margin: 5px;
+  overflow-y: scroll;
+}
+.title {
+  color: white;
+  background-color: #3c4b64;
+  font-size: 17px;
+  text-align: center;
+  padding: 10px;
+}
+.active_link {
+  color: #0072ec !important;
+  font-size: 15px;
+}
+.link {
+  color: black !important;
+}

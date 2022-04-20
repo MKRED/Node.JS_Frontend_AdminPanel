@@ -1,0 +1,38 @@
+.content {
+  padding: 20px;
+}
+.desc {
+  background-color: #2f3c4f;
+  padding: 5px;
+  color: white;
+  text-align: center;
+}
+.checks {
+  border: 1px solid;
+  padding: 5px;
+  margin-left: 5px;
+}
+.total {
+  font-size: 22px;
+  font-weight: bold;
+}
+.total b {
+  font-size: 24px;
+}
+.memberTable {
+  width: 100%;
+  margin-top: 15px;
+}
+.memberTable th {
+  padding: 5px 10px;
+  background-color: #2f3c4f;
+  color: white;
+  text-align: center;
+}
+.memberTable td {
+  text-align: center;
+  padding: 10px;
+}
+.memberTable tbody tr {
+  border-bottom: 1px solid;
+}

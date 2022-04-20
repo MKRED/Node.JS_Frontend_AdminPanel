@@ -1,0 +1,56 @@
+.sidebar {
+  width: 260px;
+}
+.fixed {
+  position: sticky;
+  top: 0;
+}
+.accordion_heading {
+  background-color: #3c4b64 !important;
+  box-shadow: none !important;
+  color: white !important;
+  text-align: center !important;
+  border-radius: unset !important;
+  padding: 1.2vw 0.5vw !important;
+  font-size: 14px !important;
+}
+.accordion_heading:after {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='rgba%28255, 255, 255, 0.6%29'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e") !important;
+}
+.accordion_item {
+  border: none !important;
+}
+.accordion_body {
+  padding: 0 1% !important;
+  background-color: #2f3c4f !important;
+}
+a {
+  display: block;
+  padding: 10px;
+  text-decoration: none !important;
+  color: white !important;
+  transition: 0.3s;
+  font-size: 1vw;
+}
+.active_link {
+  color: #0072ec !important;
+}
+.link {
+  color: white;
+}
+.mail {
+  display: block;
+  padding: 2px;
+  text-decoration: none !important;
+  color: #0072ec !important;
+  transition: 0.3s;
+  font-size: 1vw;
+}
+.activeMail {
+  display: block;
+  padding: 2px;
+  text-decoration: none !important;
+  color: white !important;
+  transition: 0.3s;
+  font-size: 1vw;
+}
